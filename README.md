@@ -47,6 +47,6 @@ This repository is for **portfolio showcase only** — source code is kept priva
 ---
 
 ## 📬 Contact
-👤 **Your Name**  
+👤 **Piyush Agarwal**  
 📧 [piyushagarwal2003k@gmail.com]  
 ---
