@@ -41,7 +41,7 @@ This repository is for **portfolio showcase only** — source code is kept priva
 
 ## 📌 About This Repo
 - This repository is a **public showcase** version.  
-- Full source code is kept **private** to prevent misus.  
+- Full source code is kept **private** to prevent misuse.  
 - If you’re a **recruiter** or **collaborator**, feel free to contact me for access.  
 
 ---
