@@ -21,6 +21,10 @@ This repository is for **portfolio showcase only** — source code is kept priva
 
 ---
 
+🔗 **Live Demo on Streamlit Cloud** → [indianstockpriceprediction.streamlit.app](https://indianstockpriceprediction.streamlit.app/)
+
+---
+
 ## 🛠️ Tech Stack
 - **Python 3.9+**
 - **Streamlit** – web app framework  
@@ -49,4 +53,3 @@ This repository is for **portfolio showcase only** — source code is kept priva
 ## 📬 Contact
 👤 **Piyush Agarwal**  
 📧 [piyushagarwal2003k@gmail.com]  
----
