@@ -26,7 +26,7 @@ This repository is for **portfolio showcase only** — source code is kept priva
 ---
 
 ## 🛠️ Tech Stack
-- **Python 3.9+**
+- **Python 3.11**
 - **Streamlit** – web app framework  
 - **scikit-learn** – machine learning models  
 - **pandas / numpy** – data preprocessing  
